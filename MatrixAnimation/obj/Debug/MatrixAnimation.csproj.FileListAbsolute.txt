@@ -1,0 +1,7 @@
+C:\Users\VCompany\source\repos\MatrixAnimation\MatrixAnimation\bin\Debug\MatrixAnimation.exe.config
+C:\Users\VCompany\source\repos\MatrixAnimation\MatrixAnimation\bin\Debug\MatrixAnimation.exe
+C:\Users\VCompany\source\repos\MatrixAnimation\MatrixAnimation\bin\Debug\MatrixAnimation.pdb
+C:\Users\VCompany\source\repos\MatrixAnimation\MatrixAnimation\obj\Debug\MatrixAnimation.csprojAssemblyReference.cache
+C:\Users\VCompany\source\repos\MatrixAnimation\MatrixAnimation\obj\Debug\MatrixAnimation.csproj.CoreCompileInputs.cache
+C:\Users\VCompany\source\repos\MatrixAnimation\MatrixAnimation\obj\Debug\MatrixAnimation.exe
+C:\Users\VCompany\source\repos\MatrixAnimation\MatrixAnimation\obj\Debug\MatrixAnimation.pdb
